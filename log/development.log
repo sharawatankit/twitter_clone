@@ -1,0 +1,2499 @@
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-21 19:22:05 +0530
+
+TypeError (superclass must be a Class (Module given)):
+  app/controllers/concerns/home_controller.rb:1:in `<top (required)>'
+
+
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (5.8ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.7ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (24.6ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (52.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.6ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (65.3ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (100.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-21 19:24:08 +0530
+
+TypeError (superclass must be a Class (Module given)):
+  app/controllers/concerns/home_controller.rb:1:in `<top (required)>'
+
+
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (6.3ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.2ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.9ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (29.9ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (20.7ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (42.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-21 19:24:49 +0530
+
+TypeError (superclass must be a Class (Module given)):
+  app/controllers/concerns/home_controller.rb:1:in `<top (required)>'
+
+
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (5.9ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.8ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.9ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (28.2ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (20.3ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.9ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (45.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-21 19:27:19 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 1364ms (Views: 1363.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-21 19:27:21 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-21 19:27:21 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-21 19:27:21 +0530
+
+
+Started GET "/assets/components.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.js?body=1" for 127.0.0.1 at 2017-02-21 19:27:21 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-21 19:27:21 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-21 19:27:21 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-21 19:27:21 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-21 19:27:21 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-21 19:27:21 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-21 19:31:50 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 340ms (Views: 339.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-21 19:31:51 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-21 19:31:51 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-21 19:31:51 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-21 19:31:51 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-21 19:31:51 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-21 19:31:51 +0530
+
+
+Started GET "/assets/components.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.js?body=1" for 127.0.0.1 at 2017-02-21 19:31:51 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-21 19:31:51 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-21 19:31:51 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-21 19:33:42 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 221ms (Views: 221.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-21 19:33:42 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-21 19:33:42 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-21 19:33:42 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-21 19:33:42 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-21 19:33:42 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-21 19:33:42 +0530
+
+
+Started GET "/assets/components.self-36505af95b2931d18e40d988e452dca3f1ea82a658da510250742cc4c21715c8.js?body=1" for 127.0.0.1 at 2017-02-21 19:33:42 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-21 19:33:42 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-21 19:33:42 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-21 19:35:39 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 35ms (Views: 34.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-21 19:35:39 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-21 19:35:39 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-21 19:35:39 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-21 19:35:39 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-21 19:35:39 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-21 19:35:39 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-21 19:35:39 +0530
+
+
+Started GET "/assets/components.self-36505af95b2931d18e40d988e452dca3f1ea82a658da510250742cc4c21715c8.js?body=1" for 127.0.0.1 at 2017-02-21 19:35:39 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-21 19:35:39 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-21 19:35:41 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 35ms (Views: 34.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-21 19:35:41 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-21 19:35:41 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-21 19:35:41 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-21 19:35:41 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-21 19:35:41 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-21 19:35:41 +0530
+
+
+Started GET "/assets/components.self-36505af95b2931d18e40d988e452dca3f1ea82a658da510250742cc4c21715c8.js?body=1" for 127.0.0.1 at 2017-02-21 19:35:41 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-21 19:35:41 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-21 19:35:41 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-21 19:36:08 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 202ms (Views: 201.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-21 19:36:08 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-21 19:36:08 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-21 19:36:08 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-21 19:36:08 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-21 19:36:08 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-21 19:36:08 +0530
+
+
+Started GET "/assets/components.self-968cd518fbb08a8d8b897534beb2b114c01d701642fa3c5ca1b55266950375bb.js?body=1" for 127.0.0.1 at 2017-02-21 19:36:08 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-21 19:36:08 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-21 19:36:08 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-21 19:37:31 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 500 Internal Server Error in 2118ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (SyntaxError: unknown: Unterminated JSX contents (3:39)
+  1 | class Main extends React.components{
+  2 | 	render(){
+> 3 | 		return(<h1>this one if from react<h1>
+    |                                        ^
+  4 | 			);
+  5 | 	}
+  6 | }):
+    3: <head>
+    4:   <title>TwitterClone</title>
+    5:   <%= stylesheet_link_tag    'application', media: 'all' %>
+    6:   <%= javascript_include_tag 'application' %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+    9: <body>
+  app/views/layouts/application.html.erb:6:in `_app_views_layouts_application_html_erb___134989513301867071_36838600'
+
+
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (12.9ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.0ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (37.3ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.7ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (26.2ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (50.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-21 19:37:46 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 1358ms (Views: 1357.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-21 19:37:48 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-21 19:37:48 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-21 19:37:48 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-21 19:37:48 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-21 19:37:48 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-21 19:37:48 +0530
+
+
+Started GET "/assets/components.self-968cd518fbb08a8d8b897534beb2b114c01d701642fa3c5ca1b55266950375bb.js?body=1" for 127.0.0.1 at 2017-02-21 19:37:48 +0530
+
+
+Started GET "/assets/components/components.self-a07f5fd45dc03d4a7bb31a8dc23714cb4faf9669bfc87b1bcb3e480b9ab9016c.js?body=1" for 127.0.0.1 at 2017-02-21 19:37:48 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-21 19:37:48 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-21 19:37:48 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-21 19:38:30 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 32ms (Views: 31.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-21 19:38:31 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-21 19:38:31 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-21 19:38:31 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-21 19:38:31 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-21 19:38:31 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-21 19:38:31 +0530
+
+
+Started GET "/assets/components.self-968cd518fbb08a8d8b897534beb2b114c01d701642fa3c5ca1b55266950375bb.js?body=1" for 127.0.0.1 at 2017-02-21 19:38:31 +0530
+
+
+Started GET "/assets/components/components.self-a07f5fd45dc03d4a7bb31a8dc23714cb4faf9669bfc87b1bcb3e480b9ab9016c.js?body=1" for 127.0.0.1 at 2017-02-21 19:38:31 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-21 19:38:31 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-21 19:38:31 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-21 19:40:20 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 500 Internal Server Error in 46ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (couldn't find file 'components' with type 'application/javascript'
+Checked in these paths: 
+  /home/ankit/Pictures/twitter_clone/app/assets/images
+  /home/ankit/Pictures/twitter_clone/app/assets/javascripts
+  /home/ankit/Pictures/twitter_clone/app/assets/stylesheets
+  /home/ankit/Pictures/twitter_clone/vendor/assets/javascripts
+  /home/ankit/Pictures/twitter_clone/vendor/assets/stylesheets
+  /home/ankit/.rvm/gems/ruby-2.3.0/gems/jquery-rails-4.2.2/vendor/assets/javascripts
+  /home/ankit/.rvm/gems/ruby-2.3.0/gems/coffee-rails-4.1.1/lib/assets/javascripts
+  /home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/assets/javascripts
+  /home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/assets/react-source
+  /home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/assets/react-source/development
+  /home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/assets/javascripts):
+    3: <head>
+    4:   <title>TwitterClone</title>
+    5:   <%= stylesheet_link_tag    'application', media: 'all' %>
+    6:   <%= javascript_include_tag 'application' %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+    9: <body>
+  app/assets/javascripts/application.js:17
+  app/views/layouts/application.html.erb:6:in `_app_views_layouts_application_html_erb___134989513301867071_36838600'
+
+
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (12.1ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (35.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (21.0ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.1ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (43.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-21 19:40:47 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1433ms (Views: 1433.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-21 19:40:48 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-21 19:40:48 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-21 19:40:48 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-21 19:40:48 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-21 19:40:48 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-21 19:40:48 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-21 19:40:48 +0530
+
+
+Started GET "/assets/main.self-a07f5fd45dc03d4a7bb31a8dc23714cb4faf9669bfc87b1bcb3e480b9ab9016c.js?body=1" for 127.0.0.1 at 2017-02-21 19:40:48 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-21 19:40:48 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-21 19:41:12 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 1391ms (Views: 1390.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-21 19:41:14 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-21 19:41:14 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-21 19:41:14 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-21 19:41:14 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-21 19:41:14 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-21 19:41:14 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-21 19:41:14 +0530
+
+
+Started GET "/assets/main.self-f92b1917436e3f52685c0bd85ee0e167fd9b877def73de8336e73d930be3b136.js?body=1" for 127.0.0.1 at 2017-02-21 19:41:14 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-21 19:41:14 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-21 19:41:17 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 24ms (Views: 23.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-21 19:41:18 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-21 19:41:18 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-21 19:41:18 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-21 19:41:18 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-21 19:41:18 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-21 19:41:18 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-21 19:41:18 +0530
+
+
+Started GET "/assets/main.self-f92b1917436e3f52685c0bd85ee0e167fd9b877def73de8336e73d930be3b136.js?body=1" for 127.0.0.1 at 2017-02-21 19:41:18 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-21 19:41:18 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-21 19:41:32 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 1312ms (Views: 1311.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-21 19:41:34 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-21 19:41:34 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-21 19:41:34 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-21 19:41:34 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-21 19:41:34 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-21 19:41:34 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-21 19:41:34 +0530
+
+
+Started GET "/assets/main.self-3a494996bd8c348eada4908500fa844fdcab3d2a15d0e4e1a63c31c41ee63534.js?body=1" for 127.0.0.1 at 2017-02-21 19:41:34 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-21 19:41:34 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-21 19:42:28 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1921.0ms)
+Completed 200 OK in 2102ms (Views: 2101.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-21 19:42:31 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-21 19:42:31 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-21 19:42:31 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-21 19:42:31 +0530
+
+
+Started GET "/assets/components.self-3a494996bd8c348eada4908500fa844fdcab3d2a15d0e4e1a63c31c41ee63534.js?body=1" for 127.0.0.1 at 2017-02-21 19:42:31 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-21 19:42:31 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-21 19:42:31 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-21 19:42:31 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-21 19:42:31 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-21 19:42:48 +0530
+Processing by HomeController#index as */*
+  Rendered home/index.html.erb within layouts/application (235.9ms)
+Completed 200 OK in 273ms (Views: 272.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-25 12:30:33 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (335.8ms)
+Completed 500 Internal Server Error in 354ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (require_tree argument must be a directory):
+    1: <div id="react">
+    2: <h1>hello</h1>
+    3: </div>
+    4: <%= react_component("Main",{},{prerender: true}) %>
+  app/assets/javascripts/components.js:1
+  app/views/home/index.html.erb:4:in `_app_views_home_index_html_erb___2120357159468534297_37647620'
+
+
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (14.9ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.7ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (11.9ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (50.7ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (39.1ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (63.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-25 12:31:33 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1897.7ms)
+Completed 500 Internal Server Error in 1901ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (TypeError: Cannot read property 'createElement' of undefined):
+    1: <div id="react">
+    2: <h1>hello</h1>
+    3: </div>
+    4: <%= react_component("Main",{},{prerender: true}) %>
+  app/views/home/index.html.erb:4:in `_app_views_home_index_html_erb___2120357159468534297_37647620'
+
+
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (10.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.3ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (33.9ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (20.7ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (40.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-25 12:31:52 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (12.4ms)
+Completed 500 Internal Server Error in 15ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (require_tree argument must be a directory):
+    1: <div id="react">
+    2: <h1>hello</h1>
+    3: </div>
+    4: <%= react_component("Main",{},{prerender: true}) %>
+  app/assets/javascripts/components.js:1
+  app/views/home/index.html.erb:4:in `_app_views_home_index_html_erb___2120357159468534297_37647620'
+
+
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (13.2ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.8ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (37.3ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (21.6ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.6ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (43.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-25 12:33:35 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (13.1ms)
+Completed 500 Internal Server Error in 16ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (require_tree argument must be a relative path):
+    1: <div id="react">
+    2: <h1>hello</h1>
+    3: </div>
+    4: <%= react_component("Main",{},{prerender: true}) %>
+  app/assets/javascripts/components.js:1
+  app/views/home/index.html.erb:4:in `_app_views_home_index_html_erb___2120357159468534297_37647620'
+
+
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (19.6ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.7ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (42.9ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (21.6ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (41.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-25 12:33:57 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (12.9ms)
+Completed 500 Internal Server Error in 16ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (require_tree argument must be a relative path):
+    1: <div id="react">
+    2: <h1>hello</h1>
+    3: </div>
+    4: <%= react_component("Main",{},{prerender: true}) %>
+  app/assets/javascripts/components.js:1
+  app/views/home/index.html.erb:4:in `_app_views_home_index_html_erb___2120357159468534297_37647620'
+
+
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (14.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.1ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (38.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (21.3ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.2ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (43.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-25 12:34:33 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (566.1ms)
+Completed 500 Internal Server Error in 569ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (TypeError: Cannot read property 'createElement' of undefined):
+    1: <div id="react">
+    2: <h1>hello</h1>
+    3: </div>
+    4: <%= react_component("Main",{},{prerender: true}) %>
+  app/views/home/index.html.erb:4:in `_app_views_home_index_html_erb___2120357159468534297_37647620'
+
+
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (13.1ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (7.8ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (40.9ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.9ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (22.8ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.0ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (46.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-25 12:34:56 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (17.1ms)
+Completed 500 Internal Server Error in 23ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (require_tree argument must be a directory):
+    1: <div id="react">
+    2: <h1>hello</h1>
+    3: </div>
+    4: <%= react_component("Main",{},{prerender: true}) %>
+  app/assets/javascripts/components.js:1
+  app/views/home/index.html.erb:4:in `_app_views_home_index_html_erb___2120357159468534297_37647620'
+
+
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (14.9ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.3ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (39.3ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (20.6ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (41.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-25 12:43:14 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (496.0ms)
+Completed 500 Internal Server Error in 500ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (Encountered error "ReferenceError: Main is not defined" when prerendering Main with {}
+eval (eval at <anonymous> ((execjs):19689:8), <anonymous>:3:76)
+eval (eval at <anonymous> ((execjs):19689:8), <anonymous>:15:13)
+(execjs):19689:8
+(execjs):19695:14
+global ((execjs):1:102)
+Object.<anonymous> ((execjs):1:120)
+Module._compile (module.js:571:32)
+Object.Module._extensions..js (module.js:580:10)
+Module.load (module.js:488:32)
+tryModuleLoad (module.js:447:12)
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/execjs-2.7.0/lib/execjs/external_runtime.rb:39:in `exec'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/execjs-2.7.0/lib/execjs/external_runtime.rb:21:in `eval'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/react/server_rendering/exec_js_renderer.rb:23:in `render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/react/server_rendering/sprockets_renderer.rb:32:in `render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/react/server_rendering.rb:17:in `block in render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/connection_pool-2.2.1/lib/connection_pool.rb:64:in `block (2 levels) in with'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/connection_pool-2.2.1/lib/connection_pool.rb:63:in `handle_interrupt'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/connection_pool-2.2.1/lib/connection_pool.rb:63:in `block in with'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/connection_pool-2.2.1/lib/connection_pool.rb:60:in `handle_interrupt'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/connection_pool-2.2.1/lib/connection_pool.rb:60:in `with'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/react/server_rendering.rb:16:in `render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/react/rails/component_mount.rb:29:in `block in react_component'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/helpers/capture_helper.rb:38:in `block in capture'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/helpers/capture_helper.rb:202:in `with_output_buffer'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/helpers/capture_helper.rb:38:in `capture'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/helpers/tag_helper.rb:106:in `content_tag'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/react/rails/component_mount.rb:42:in `react_component'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/react/rails/view_helper.rb:21:in `react_component'
+/home/ankit/Pictures/twitter_clone/app/views/home/index.html.erb:4:in `_app_views_home_index_html_erb___2120357159468534297_37647620'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/template.rb:145:in `block in render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/notifications.rb:166:in `instrument'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/template.rb:333:in `instrument'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/template.rb:143:in `render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/renderer/template_renderer.rb:54:in `block (2 levels) in render_template'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/renderer/abstract_renderer.rb:39:in `block in instrument'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/notifications.rb:164:in `block in instrument'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/notifications.rb:164:in `instrument'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/renderer/abstract_renderer.rb:39:in `instrument'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/renderer/template_renderer.rb:53:in `block in render_template'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/renderer/template_renderer.rb:61:in `render_with_layout'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/renderer/template_renderer.rb:52:in `render_template'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/renderer/template_renderer.rb:14:in `render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/renderer/renderer.rb:46:in `render_template'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/renderer/renderer.rb:27:in `render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/rendering.rb:100:in `_render_template'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/streaming.rb:217:in `_render_template'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/rendering.rb:83:in `render_to_body'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/rendering.rb:32:in `render_to_body'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/renderers.rb:37:in `render_to_body'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/abstract_controller/rendering.rb:25:in `render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/rendering.rb:16:in `render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/instrumentation.rb:44:in `block (2 levels) in render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+/home/ankit/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/benchmark.rb:308:in `realtime'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/core_ext/benchmark.rb:12:in `ms'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/instrumentation.rb:44:in `block in render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/instrumentation.rb:87:in `cleanup_view_runtime'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activerecord-4.2.6/lib/active_record/railties/controller_runtime.rb:25:in `cleanup_view_runtime'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/instrumentation.rb:43:in `render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/abstract_controller/base.rb:198:in `process_action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/rendering.rb:10:in `process_action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/callbacks.rb:117:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/callbacks.rb:555:in `block (2 levels) in compile'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/callbacks.rb:505:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/callbacks.rb:92:in `__run_callbacks__'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/callbacks.rb:778:in `_run_process_action_callbacks'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/abstract_controller/callbacks.rb:19:in `process_action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/rescue.rb:29:in `process_action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/notifications.rb:164:in `block in instrument'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/notifications.rb:164:in `instrument'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/params_wrapper.rb:250:in `process_action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activerecord-4.2.6/lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/abstract_controller/base.rb:137:in `process'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/rendering.rb:30:in `process'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal.rb:196:in `dispatch'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal.rb:237:in `block in action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/routing/route_set.rb:74:in `dispatch'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/routing/route_set.rb:43:in `serve'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/journey/router.rb:43:in `block in serve'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/journey/router.rb:30:in `each'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/journey/router.rb:30:in `serve'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/routing/route_set.rb:817:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/etag.rb:24:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/conditionalget.rb:25:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/head.rb:13:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/flash.rb:260:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/session/abstract/id.rb:225:in `context'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/session/abstract/id.rb:220:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/cookies.rb:560:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activerecord-4.2.6/lib/active_record/query_cache.rb:36:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activerecord-4.2.6/lib/active_record/connection_adapters/abstract/connection_pool.rb:653:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activerecord-4.2.6/lib/active_record/migration.rb:377:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/callbacks.rb:88:in `__run_callbacks__'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/callbacks.rb:778:in `_run_call_callbacks'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/reloader.rb:73:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/middleware.rb:28:in `block in call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/middleware.rb:18:in `catch'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/middleware.rb:18:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/railties-4.2.6/lib/rails/rack/logger.rb:38:in `call_app'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/railties-4.2.6/lib/rails/rack/logger.rb:20:in `block in call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/tagged_logging.rb:68:in `block in tagged'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/tagged_logging.rb:26:in `tagged'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/tagged_logging.rb:68:in `tagged'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/railties-4.2.6/lib/rails/rack/logger.rb:20:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/request_id.rb:21:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/methodoverride.rb:22:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/runtime.rb:18:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/lock.rb:17:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/static.rb:120:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/sendfile.rb:113:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/railties-4.2.6/lib/rails/engine.rb:518:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/railties-4.2.6/lib/rails/application.rb:165:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/lock.rb:17:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/content_length.rb:15:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/handler/webrick.rb:88:in `service'
+/home/ankit/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+/home/ankit/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+/home/ankit/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'):
+    1: <div id="react">
+    2: <h1>hello</h1>
+    3: </div>
+    4: <%= react_component("Main",{},{prerender: true}) %>
+  app/views/home/index.html.erb:4:in `_app_views_home_index_html_erb___2120357159468534297_37647620'
+
+
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (9.8ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.0ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (33.9ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.9ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (30.1ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (51.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-25 12:44:05 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (2499.0ms)
+Completed 200 OK in 2935ms (Views: 2934.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/components/components.self-3a494996bd8c348eada4908500fa844fdcab3d2a15d0e4e1a63c31c41ee63534.js?body=1" for 127.0.0.1 at 2017-02-25 12:44:08 +0530
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-25 12:44:09 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-25 12:44:09 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-25 12:44:09 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-25 12:44:09 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-25 12:44:09 +0530
+
+
+Started GET "/assets/components.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.js?body=1" for 127.0.0.1 at 2017-02-25 12:44:09 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-25 12:44:09 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-25 12:44:09 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-25 12:44:09 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-25 13:02:05 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (536.1ms)
+Completed 200 OK in 627ms (Views: 627.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-25 13:02:07 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-25 13:02:07 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-25 13:02:07 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-25 13:02:07 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-25 13:02:07 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-25 13:02:07 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-25 13:02:07 +0530
+
+
+Started GET "/assets/components.self-3a494996bd8c348eada4908500fa844fdcab3d2a15d0e4e1a63c31c41ee63534.js?body=1" for 127.0.0.1 at 2017-02-25 13:02:07 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-25 13:02:07 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-25 13:02:10 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (273.9ms)
+Completed 200 OK in 296ms (Views: 296.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-25 13:02:10 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-25 13:02:10 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-25 13:02:10 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-25 13:02:10 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-25 13:02:10 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-25 13:02:10 +0530
+
+
+Started GET "/assets/components.self-3a494996bd8c348eada4908500fa844fdcab3d2a15d0e4e1a63c31c41ee63534.js?body=1" for 127.0.0.1 at 2017-02-25 13:02:10 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-25 13:02:10 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-25 13:02:10 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-25 13:02:29 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (462.7ms)
+Completed 200 OK in 485ms (Views: 484.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-25 13:02:30 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-25 13:02:30 +0530
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-25 13:02:30 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-25 13:02:30 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-25 13:02:30 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-25 13:02:30 +0530
+
+
+Started GET "/assets/components.self-3a494996bd8c348eada4908500fa844fdcab3d2a15d0e4e1a63c31c41ee63534.js?body=1" for 127.0.0.1 at 2017-02-25 13:02:30 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-25 13:02:30 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-25 13:02:30 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-25 13:02:49 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (714.9ms)
+Completed 200 OK in 1021ms (Views: 1020.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-25 13:02:50 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-25 13:02:50 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-25 13:02:50 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-25 13:02:50 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-25 13:02:50 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-25 13:02:50 +0530
+
+
+Started GET "/assets/components.self-3a494996bd8c348eada4908500fa844fdcab3d2a15d0e4e1a63c31c41ee63534.js?body=1" for 127.0.0.1 at 2017-02-25 13:02:50 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-25 13:02:50 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-25 13:02:50 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-27 13:24:38 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (2135.7ms)
+Completed 500 Internal Server Error in 2199ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (Encountered error "ReferenceError: Main is not defined" when prerendering Main with {}
+eval (eval at <anonymous> ((execjs):19689:8), <anonymous>:3:76)
+eval (eval at <anonymous> ((execjs):19689:8), <anonymous>:15:13)
+(execjs):19689:8
+(execjs):19695:14
+global ((execjs):1:102)
+Object.<anonymous> ((execjs):1:120)
+Module._compile (module.js:571:32)
+Object.Module._extensions..js (module.js:580:10)
+Module.load (module.js:488:32)
+tryModuleLoad (module.js:447:12)
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/execjs-2.7.0/lib/execjs/external_runtime.rb:39:in `exec'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/execjs-2.7.0/lib/execjs/external_runtime.rb:21:in `eval'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/react/server_rendering/exec_js_renderer.rb:23:in `render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/react/server_rendering/sprockets_renderer.rb:32:in `render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/react/server_rendering.rb:17:in `block in render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/connection_pool-2.2.1/lib/connection_pool.rb:64:in `block (2 levels) in with'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/connection_pool-2.2.1/lib/connection_pool.rb:63:in `handle_interrupt'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/connection_pool-2.2.1/lib/connection_pool.rb:63:in `block in with'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/connection_pool-2.2.1/lib/connection_pool.rb:60:in `handle_interrupt'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/connection_pool-2.2.1/lib/connection_pool.rb:60:in `with'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/react/server_rendering.rb:16:in `render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/react/rails/component_mount.rb:29:in `block in react_component'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/helpers/capture_helper.rb:38:in `block in capture'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/helpers/capture_helper.rb:202:in `with_output_buffer'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/helpers/capture_helper.rb:38:in `capture'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/helpers/tag_helper.rb:106:in `content_tag'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/react/rails/component_mount.rb:42:in `react_component'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/react/rails/view_helper.rb:21:in `react_component'
+/home/ankit/Pictures/twitter_clone/app/views/home/index.html.erb:4:in `_app_views_home_index_html_erb___2180259218718019194_33764940'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/template.rb:145:in `block in render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/notifications.rb:166:in `instrument'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/template.rb:333:in `instrument'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/template.rb:143:in `render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/renderer/template_renderer.rb:54:in `block (2 levels) in render_template'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/renderer/abstract_renderer.rb:39:in `block in instrument'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/notifications.rb:164:in `block in instrument'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/notifications.rb:164:in `instrument'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/renderer/abstract_renderer.rb:39:in `instrument'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/renderer/template_renderer.rb:53:in `block in render_template'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/renderer/template_renderer.rb:61:in `render_with_layout'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/renderer/template_renderer.rb:52:in `render_template'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/renderer/template_renderer.rb:14:in `render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/renderer/renderer.rb:46:in `render_template'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/renderer/renderer.rb:27:in `render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/rendering.rb:100:in `_render_template'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/streaming.rb:217:in `_render_template'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/rendering.rb:83:in `render_to_body'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/rendering.rb:32:in `render_to_body'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/renderers.rb:37:in `render_to_body'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/abstract_controller/rendering.rb:25:in `render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/rendering.rb:16:in `render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/instrumentation.rb:44:in `block (2 levels) in render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+/home/ankit/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/benchmark.rb:308:in `realtime'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/core_ext/benchmark.rb:12:in `ms'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/instrumentation.rb:44:in `block in render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/instrumentation.rb:87:in `cleanup_view_runtime'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activerecord-4.2.6/lib/active_record/railties/controller_runtime.rb:25:in `cleanup_view_runtime'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/instrumentation.rb:43:in `render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/abstract_controller/base.rb:198:in `process_action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/rendering.rb:10:in `process_action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/callbacks.rb:117:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/callbacks.rb:555:in `block (2 levels) in compile'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/callbacks.rb:505:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/callbacks.rb:92:in `__run_callbacks__'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/callbacks.rb:778:in `_run_process_action_callbacks'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/abstract_controller/callbacks.rb:19:in `process_action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/rescue.rb:29:in `process_action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/notifications.rb:164:in `block in instrument'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/notifications.rb:164:in `instrument'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/params_wrapper.rb:250:in `process_action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activerecord-4.2.6/lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/abstract_controller/base.rb:137:in `process'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/rendering.rb:30:in `process'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal.rb:196:in `dispatch'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal.rb:237:in `block in action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/routing/route_set.rb:74:in `dispatch'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/routing/route_set.rb:43:in `serve'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/journey/router.rb:43:in `block in serve'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/journey/router.rb:30:in `each'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/journey/router.rb:30:in `serve'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/routing/route_set.rb:817:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/etag.rb:24:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/conditionalget.rb:25:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/head.rb:13:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/flash.rb:260:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/session/abstract/id.rb:225:in `context'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/session/abstract/id.rb:220:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/cookies.rb:560:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activerecord-4.2.6/lib/active_record/query_cache.rb:36:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activerecord-4.2.6/lib/active_record/connection_adapters/abstract/connection_pool.rb:653:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activerecord-4.2.6/lib/active_record/migration.rb:377:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/callbacks.rb:88:in `__run_callbacks__'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/callbacks.rb:778:in `_run_call_callbacks'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/reloader.rb:73:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/middleware.rb:28:in `block in call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/middleware.rb:18:in `catch'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/middleware.rb:18:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/railties-4.2.6/lib/rails/rack/logger.rb:38:in `call_app'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/railties-4.2.6/lib/rails/rack/logger.rb:20:in `block in call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/tagged_logging.rb:68:in `block in tagged'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/tagged_logging.rb:26:in `tagged'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/tagged_logging.rb:68:in `tagged'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/railties-4.2.6/lib/rails/rack/logger.rb:20:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/request_id.rb:21:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/methodoverride.rb:22:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/runtime.rb:18:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/lock.rb:17:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/static.rb:120:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/sendfile.rb:113:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/railties-4.2.6/lib/rails/engine.rb:518:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/railties-4.2.6/lib/rails/application.rb:165:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/lock.rb:17:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/content_length.rb:15:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/handler/webrick.rb:88:in `service'
+/home/ankit/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+/home/ankit/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+/home/ankit/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'):
+    1: <div id="react">
+    2: <h1>hello</h1>
+    3: </div>
+    4: <%= react_component("Main",{},{prerender: true}) %>
+  app/views/home/index.html.erb:4:in `_app_views_home_index_html_erb___2180259218718019194_33764940'
+
+
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (13.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (6.8ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (27.6ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (81.1ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (68.7ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.9ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.9ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (120.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-27 13:24:43 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (303.0ms)
+Completed 500 Internal Server Error in 305ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (Encountered error "ReferenceError: Main is not defined" when prerendering Main with {}
+eval (eval at <anonymous> ((execjs):19689:8), <anonymous>:3:76)
+eval (eval at <anonymous> ((execjs):19689:8), <anonymous>:15:13)
+(execjs):19689:8
+(execjs):19695:14
+global ((execjs):1:102)
+Object.<anonymous> ((execjs):1:120)
+Module._compile (module.js:571:32)
+Object.Module._extensions..js (module.js:580:10)
+Module.load (module.js:488:32)
+tryModuleLoad (module.js:447:12)
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/execjs-2.7.0/lib/execjs/external_runtime.rb:39:in `exec'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/execjs-2.7.0/lib/execjs/external_runtime.rb:21:in `eval'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/react/server_rendering/exec_js_renderer.rb:23:in `render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/react/server_rendering/sprockets_renderer.rb:32:in `render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/react/server_rendering.rb:17:in `block in render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/connection_pool-2.2.1/lib/connection_pool.rb:64:in `block (2 levels) in with'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/connection_pool-2.2.1/lib/connection_pool.rb:63:in `handle_interrupt'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/connection_pool-2.2.1/lib/connection_pool.rb:63:in `block in with'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/connection_pool-2.2.1/lib/connection_pool.rb:60:in `handle_interrupt'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/connection_pool-2.2.1/lib/connection_pool.rb:60:in `with'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/react/server_rendering.rb:16:in `render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/react/rails/component_mount.rb:29:in `block in react_component'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/helpers/capture_helper.rb:38:in `block in capture'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/helpers/capture_helper.rb:202:in `with_output_buffer'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/helpers/capture_helper.rb:38:in `capture'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/helpers/tag_helper.rb:106:in `content_tag'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/react/rails/component_mount.rb:42:in `react_component'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/react/rails/view_helper.rb:21:in `react_component'
+/home/ankit/Pictures/twitter_clone/app/views/home/index.html.erb:4:in `_app_views_home_index_html_erb___2180259218718019194_33764940'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/template.rb:145:in `block in render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/notifications.rb:166:in `instrument'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/template.rb:333:in `instrument'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/template.rb:143:in `render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/renderer/template_renderer.rb:54:in `block (2 levels) in render_template'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/renderer/abstract_renderer.rb:39:in `block in instrument'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/notifications.rb:164:in `block in instrument'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/notifications.rb:164:in `instrument'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/renderer/abstract_renderer.rb:39:in `instrument'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/renderer/template_renderer.rb:53:in `block in render_template'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/renderer/template_renderer.rb:61:in `render_with_layout'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/renderer/template_renderer.rb:52:in `render_template'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/renderer/template_renderer.rb:14:in `render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/renderer/renderer.rb:46:in `render_template'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/renderer/renderer.rb:27:in `render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/rendering.rb:100:in `_render_template'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/streaming.rb:217:in `_render_template'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/rendering.rb:83:in `render_to_body'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/rendering.rb:32:in `render_to_body'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/renderers.rb:37:in `render_to_body'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/abstract_controller/rendering.rb:25:in `render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/rendering.rb:16:in `render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/instrumentation.rb:44:in `block (2 levels) in render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+/home/ankit/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/benchmark.rb:308:in `realtime'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/core_ext/benchmark.rb:12:in `ms'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/instrumentation.rb:44:in `block in render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/instrumentation.rb:87:in `cleanup_view_runtime'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activerecord-4.2.6/lib/active_record/railties/controller_runtime.rb:25:in `cleanup_view_runtime'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/instrumentation.rb:43:in `render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/abstract_controller/base.rb:198:in `process_action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/rendering.rb:10:in `process_action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/callbacks.rb:117:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/callbacks.rb:555:in `block (2 levels) in compile'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/callbacks.rb:505:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/callbacks.rb:92:in `__run_callbacks__'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/callbacks.rb:778:in `_run_process_action_callbacks'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/abstract_controller/callbacks.rb:19:in `process_action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/rescue.rb:29:in `process_action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/notifications.rb:164:in `block in instrument'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/notifications.rb:164:in `instrument'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/params_wrapper.rb:250:in `process_action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activerecord-4.2.6/lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/abstract_controller/base.rb:137:in `process'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionview-4.2.6/lib/action_view/rendering.rb:30:in `process'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal.rb:196:in `dispatch'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_controller/metal.rb:237:in `block in action'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/routing/route_set.rb:74:in `dispatch'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/routing/route_set.rb:43:in `serve'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/journey/router.rb:43:in `block in serve'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/journey/router.rb:30:in `each'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/journey/router.rb:30:in `serve'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/routing/route_set.rb:817:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/etag.rb:24:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/conditionalget.rb:25:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/head.rb:13:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/flash.rb:260:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/session/abstract/id.rb:225:in `context'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/session/abstract/id.rb:220:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/cookies.rb:560:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activerecord-4.2.6/lib/active_record/query_cache.rb:36:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activerecord-4.2.6/lib/active_record/connection_adapters/abstract/connection_pool.rb:653:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activerecord-4.2.6/lib/active_record/migration.rb:377:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/callbacks.rb:88:in `__run_callbacks__'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/callbacks.rb:778:in `_run_call_callbacks'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/reloader.rb:73:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/middleware.rb:28:in `block in call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/middleware.rb:18:in `catch'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/middleware.rb:18:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/railties-4.2.6/lib/rails/rack/logger.rb:38:in `call_app'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/railties-4.2.6/lib/rails/rack/logger.rb:20:in `block in call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/tagged_logging.rb:68:in `block in tagged'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/tagged_logging.rb:26:in `tagged'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/tagged_logging.rb:68:in `tagged'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/railties-4.2.6/lib/rails/rack/logger.rb:20:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/request_id.rb:21:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/methodoverride.rb:22:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/runtime.rb:18:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/activesupport-4.2.6/lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/lock.rb:17:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/static.rb:120:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/sendfile.rb:113:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/railties-4.2.6/lib/rails/engine.rb:518:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/railties-4.2.6/lib/rails/application.rb:165:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/lock.rb:17:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/content_length.rb:15:in `call'
+/home/ankit/.rvm/gems/ruby-2.3.0/gems/rack-1.6.5/lib/rack/handler/webrick.rb:88:in `service'
+/home/ankit/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+/home/ankit/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+/home/ankit/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'):
+    1: <div id="react">
+    2: <h1>hello</h1>
+    3: </div>
+    4: <%= react_component("Main",{},{prerender: true}) %>
+  app/views/home/index.html.erb:4:in `_app_views_home_index_html_erb___2180259218718019194_33764940'
+
+
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (19.9ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.0ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (44.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (22.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (1.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (46.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-27 13:25:20 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.8ms)
+Completed 500 Internal Server Error in 172ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (couldn't find file 'components' with type 'application/javascript'
+Checked in these paths: 
+  /home/ankit/Pictures/twitter_clone/app/assets/images
+  /home/ankit/Pictures/twitter_clone/app/assets/javascripts
+  /home/ankit/Pictures/twitter_clone/app/assets/stylesheets
+  /home/ankit/Pictures/twitter_clone/vendor/assets/javascripts
+  /home/ankit/Pictures/twitter_clone/vendor/assets/stylesheets
+  /home/ankit/.rvm/gems/ruby-2.3.0/gems/jquery-rails-4.2.2/vendor/assets/javascripts
+  /home/ankit/.rvm/gems/ruby-2.3.0/gems/coffee-rails-4.1.1/lib/assets/javascripts
+  /home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/assets/javascripts
+  /home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/assets/react-source
+  /home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/assets/react-source/development
+  /home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/assets/javascripts):
+    2: <html>
+    3: <head>
+    4:   <title>TwitterClone</title>
+    5:   <%= stylesheet_link_tag    'application', media: 'all' %>
+    6:   <%= javascript_include_tag 'application' %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/javascripts/application.js:17
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___2919434824195766155_33758900'
+
+
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (16.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (6.9ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (44.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (1.2ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (21.9ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (45.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-27 13:25:46 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 500 Internal Server Error in 29ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (couldn't find file 'components' with type 'application/javascript'
+Checked in these paths: 
+  /home/ankit/Pictures/twitter_clone/app/assets/images
+  /home/ankit/Pictures/twitter_clone/app/assets/javascripts
+  /home/ankit/Pictures/twitter_clone/app/assets/stylesheets
+  /home/ankit/Pictures/twitter_clone/vendor/assets/javascripts
+  /home/ankit/Pictures/twitter_clone/vendor/assets/stylesheets
+  /home/ankit/.rvm/gems/ruby-2.3.0/gems/jquery-rails-4.2.2/vendor/assets/javascripts
+  /home/ankit/.rvm/gems/ruby-2.3.0/gems/coffee-rails-4.1.1/lib/assets/javascripts
+  /home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/assets/javascripts
+  /home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/assets/react-source
+  /home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/assets/react-source/development
+  /home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/assets/javascripts):
+    2: <html>
+    3: <head>
+    4:   <title>TwitterClone</title>
+    5:   <%= stylesheet_link_tag    'application', media: 'all' %>
+    6:   <%= javascript_include_tag 'application' %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/javascripts/application.js:17
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___2919434824195766155_33758900'
+
+
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (15.3ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.0ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.9ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (40.6ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (1.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (24.6ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (47.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-27 13:25:49 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 500 Internal Server Error in 27ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (couldn't find file 'components' with type 'application/javascript'
+Checked in these paths: 
+  /home/ankit/Pictures/twitter_clone/app/assets/images
+  /home/ankit/Pictures/twitter_clone/app/assets/javascripts
+  /home/ankit/Pictures/twitter_clone/app/assets/stylesheets
+  /home/ankit/Pictures/twitter_clone/vendor/assets/javascripts
+  /home/ankit/Pictures/twitter_clone/vendor/assets/stylesheets
+  /home/ankit/.rvm/gems/ruby-2.3.0/gems/jquery-rails-4.2.2/vendor/assets/javascripts
+  /home/ankit/.rvm/gems/ruby-2.3.0/gems/coffee-rails-4.1.1/lib/assets/javascripts
+  /home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/assets/javascripts
+  /home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/assets/react-source
+  /home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/assets/react-source/development
+  /home/ankit/.rvm/gems/ruby-2.3.0/gems/react-rails-1.4.2/lib/assets/javascripts):
+    2: <html>
+    3: <head>
+    4:   <title>TwitterClone</title>
+    5:   <%= stylesheet_link_tag    'application', media: 'all' %>
+    6:   <%= javascript_include_tag 'application' %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/javascripts/application.js:17
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___2919434824195766155_33758900'
+
+
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (15.9ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (7.0ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (43.3ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (21.9ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.8ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (47.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-27 13:28:04 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 3752ms (Views: 3751.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-27 13:28:08 +0530
+
+
+Started GET "/assets/main.self-11b1ae89997cbce4b519991e9241ca1a357a244ec8ccccbf9dfe57c0a346c947.js?body=1" for 127.0.0.1 at 2017-02-27 13:28:08 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-27 13:28:08 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-27 13:28:08 +0530
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-27 13:28:08 +0530
+
+
+Started GET "/assets/greet.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.js?body=1" for 127.0.0.1 at 2017-02-27 13:28:08 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-27 13:29:45 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 2724ms (Views: 2723.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/greet.self-f4e5916714491a03c933182690a2cdfefbd331febd6903f2f083c4902562b66f.js?body=1" for 127.0.0.1 at 2017-02-27 13:29:48 +0530
+
+
+Started GET "/assets/main.self-df01ca776b3c5eb6c81ebffad185c216133268d7540d65fa980f9954a62e8d32.js?body=1" for 127.0.0.1 at 2017-02-27 13:29:48 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-27 13:30:17 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (11.2ms)
+Completed 200 OK in 54ms (Views: 53.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-27 18:53:43 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 6771ms (Views: 6770.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/frontend/greet.self-d1421c93eb04f11d1e4de87de70701ada38ff72acd6cdd4202b05c208a252aa7.js?body=1" for 127.0.0.1 at 2017-02-27 18:53:50 +0530
+
+
+Started GET "/assets/frontend/main.self-9132a504dd77ceb316edfafe518c5e42bc4b221a737cc7125b71b77df5c1bb24.js?body=1" for 127.0.0.1 at 2017-02-27 18:53:50 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-27 18:53:59 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 33ms (Views: 32.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-28 15:21:44 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 650ms (Views: 649.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/frontend/greet.self-d1421c93eb04f11d1e4de87de70701ada38ff72acd6cdd4202b05c208a252aa7.js?body=1" for 127.0.0.1 at 2017-02-28 15:21:46 +0530
+
+
+Started GET "/assets/frontend/main.self-9132a504dd77ceb316edfafe518c5e42bc4b221a737cc7125b71b77df5c1bb24.js?body=1" for 127.0.0.1 at 2017-02-28 15:21:46 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-28 15:21:49 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 35ms (Views: 34.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-28 15:21:49 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-28 15:21:49 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-28 15:21:49 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-28 15:21:49 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-28 15:21:49 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-28 15:21:49 +0530
+
+
+Started GET "/assets/frontend/greet.self-d1421c93eb04f11d1e4de87de70701ada38ff72acd6cdd4202b05c208a252aa7.js?body=1" for 127.0.0.1 at 2017-02-28 15:21:49 +0530
+
+
+Started GET "/assets/frontend/main.self-9132a504dd77ceb316edfafe518c5e42bc4b221a737cc7125b71b77df5c1bb24.js?body=1" for 127.0.0.1 at 2017-02-28 15:21:49 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-28 15:21:49 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-28 15:21:49 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-28 15:21:51 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 44ms (Views: 43.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-28 15:21:51 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-28 15:21:51 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-28 15:21:51 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-28 15:21:51 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-28 15:21:51 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-28 15:21:51 +0530
+
+
+Started GET "/assets/frontend/greet.self-d1421c93eb04f11d1e4de87de70701ada38ff72acd6cdd4202b05c208a252aa7.js?body=1" for 127.0.0.1 at 2017-02-28 15:21:51 +0530
+
+
+Started GET "/assets/frontend/main.self-9132a504dd77ceb316edfafe518c5e42bc4b221a737cc7125b71b77df5c1bb24.js?body=1" for 127.0.0.1 at 2017-02-28 15:21:51 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-28 15:21:51 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-28 15:21:51 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-28 15:23:48 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 39ms (Views: 39.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-28 15:23:48 +0530
+
+
+Started GET "/assets/frontend/greet.self-d1421c93eb04f11d1e4de87de70701ada38ff72acd6cdd4202b05c208a252aa7.js?body=1" for 127.0.0.1 at 2017-02-28 15:23:48 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-28 15:23:48 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-28 15:23:48 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-28 15:23:48 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-28 15:23:48 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-28 15:23:48 +0530
+
+
+Started GET "/assets/frontend/main.self-9132a504dd77ceb316edfafe518c5e42bc4b221a737cc7125b71b77df5c1bb24.js?body=1" for 127.0.0.1 at 2017-02-28 15:23:48 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-28 15:23:48 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-28 15:23:48 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-28 15:27:03 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 43ms (Views: 42.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-28 15:27:03 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-28 15:27:03 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-28 15:27:03 +0530
+
+
+Started GET "/assets/frontend/main.self-9132a504dd77ceb316edfafe518c5e42bc4b221a737cc7125b71b77df5c1bb24.js?body=1" for 127.0.0.1 at 2017-02-28 15:27:03 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-28 15:27:03 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-28 15:27:03 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-28 15:27:03 +0530
+
+
+Started GET "/assets/frontend/greet.self-d1421c93eb04f11d1e4de87de70701ada38ff72acd6cdd4202b05c208a252aa7.js?body=1" for 127.0.0.1 at 2017-02-28 15:27:03 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-28 15:27:03 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-28 15:27:03 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-28 15:43:29 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 33ms (Views: 33.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-28 15:43:29 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-28 15:43:29 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-28 15:43:29 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-28 15:43:29 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-28 15:43:29 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-28 15:43:29 +0530
+
+
+Started GET "/assets/frontend/greet.self-d1421c93eb04f11d1e4de87de70701ada38ff72acd6cdd4202b05c208a252aa7.js?body=1" for 127.0.0.1 at 2017-02-28 15:43:29 +0530
+
+
+Started GET "/assets/frontend/main.self-9132a504dd77ceb316edfafe518c5e42bc4b221a737cc7125b71b77df5c1bb24.js?body=1" for 127.0.0.1 at 2017-02-28 15:43:29 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-28 15:43:29 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-28 15:43:29 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-28 15:43:31 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 49ms (Views: 48.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-28 15:43:31 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-28 15:43:31 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-28 15:43:31 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-28 15:43:31 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-28 15:43:31 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-28 15:43:31 +0530
+
+
+Started GET "/assets/frontend/greet.self-d1421c93eb04f11d1e4de87de70701ada38ff72acd6cdd4202b05c208a252aa7.js?body=1" for 127.0.0.1 at 2017-02-28 15:43:31 +0530
+
+
+Started GET "/assets/frontend/main.self-9132a504dd77ceb316edfafe518c5e42bc4b221a737cc7125b71b77df5c1bb24.js?body=1" for 127.0.0.1 at 2017-02-28 15:43:31 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-28 15:43:31 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-28 15:43:31 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-28 15:44:34 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 3871ms (Views: 3870.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-28 15:44:38 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-28 15:44:38 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-28 15:44:38 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-28 15:44:39 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-28 15:44:39 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-28 15:44:39 +0530
+
+
+Started GET "/assets/frontend/main.self-9132a504dd77ceb316edfafe518c5e42bc4b221a737cc7125b71b77df5c1bb24.js?body=1" for 127.0.0.1 at 2017-02-28 15:44:39 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-28 15:44:39 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-28 15:44:39 +0530
+
+
+Started GET "/assets/frontend/greet.self-d1421c93eb04f11d1e4de87de70701ada38ff72acd6cdd4202b05c208a252aa7.js?body=1" for 127.0.0.1 at 2017-02-28 15:44:39 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-28 16:04:33 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 4425ms (Views: 4424.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-28 16:04:39 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-28 16:04:39 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-28 16:04:39 +0530
+
+
+Started GET "/assets/frontend/greet.self-d1421c93eb04f11d1e4de87de70701ada38ff72acd6cdd4202b05c208a252aa7.js?body=1" for 127.0.0.1 at 2017-02-28 16:04:39 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-28 16:04:39 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-28 16:04:39 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-28 16:04:39 +0530
+
+
+Started GET "/assets/frontend/main.self-9132a504dd77ceb316edfafe518c5e42bc4b221a737cc7125b71b77df5c1bb24.js?body=1" for 127.0.0.1 at 2017-02-28 16:04:39 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-28 16:04:39 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-28 16:04:39 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-28 16:28:14 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 45ms (Views: 45.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-28 16:28:14 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-28 16:28:14 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-28 16:28:14 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-28 16:28:14 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-28 16:28:14 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-28 16:28:14 +0530
+
+
+Started GET "/assets/frontend/main.self-9132a504dd77ceb316edfafe518c5e42bc4b221a737cc7125b71b77df5c1bb24.js?body=1" for 127.0.0.1 at 2017-02-28 16:28:14 +0530
+
+
+Started GET "/assets/frontend/greet.self-d1421c93eb04f11d1e4de87de70701ada38ff72acd6cdd4202b05c208a252aa7.js?body=1" for 127.0.0.1 at 2017-02-28 16:28:14 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-28 16:28:14 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-28 16:28:14 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-28 16:29:29 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 1495ms (Views: 1494.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-28 16:29:31 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-28 16:29:31 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-28 16:29:31 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-28 16:29:31 +0530
+
+
+Started GET "/assets/frontend/greet.self-d1421c93eb04f11d1e4de87de70701ada38ff72acd6cdd4202b05c208a252aa7.js?body=1" for 127.0.0.1 at 2017-02-28 16:29:31 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-28 16:29:31 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-28 16:29:31 +0530
+
+
+Started GET "/assets/frontend/main.self-e74b57c8c09eaf9ea2f6bd04dc608898062d20e5df168198fa5f12e0ff2f00d0.js?body=1" for 127.0.0.1 at 2017-02-28 16:29:31 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-28 16:29:31 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-28 16:29:31 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-28 16:33:28 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 38ms (Views: 38.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-28 16:33:28 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-28 16:33:28 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-28 16:33:28 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-28 16:33:28 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-28 16:33:28 +0530
+
+
+Started GET "/assets/frontend/main.self-e74b57c8c09eaf9ea2f6bd04dc608898062d20e5df168198fa5f12e0ff2f00d0.js?body=1" for 127.0.0.1 at 2017-02-28 16:33:28 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-28 16:33:28 +0530
+
+
+Started GET "/assets/frontend/greet.self-d1421c93eb04f11d1e4de87de70701ada38ff72acd6cdd4202b05c208a252aa7.js?body=1" for 127.0.0.1 at 2017-02-28 16:33:28 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-28 16:33:28 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-28 16:33:28 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-28 16:39:28 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 718ms (Views: 717.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-28 16:39:29 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-28 16:39:29 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-28 16:39:29 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-28 16:39:29 +0530
+
+
+Started GET "/assets/frontend/main.self-e74b57c8c09eaf9ea2f6bd04dc608898062d20e5df168198fa5f12e0ff2f00d0.js?body=1" for 127.0.0.1 at 2017-02-28 16:39:29 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-28 16:39:29 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-28 16:39:29 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-28 16:39:29 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-28 16:39:29 +0530
+
+
+Started GET "/assets/frontend/greet.self-d1421c93eb04f11d1e4de87de70701ada38ff72acd6cdd4202b05c208a252aa7.js?body=1" for 127.0.0.1 at 2017-02-28 16:39:29 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-28 16:40:06 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 83ms (Views: 83.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-28 16:40:06 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-28 16:40:06 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-28 16:40:06 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-28 16:40:06 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-28 16:40:06 +0530
+
+
+Started GET "/assets/frontend/main.self-e74b57c8c09eaf9ea2f6bd04dc608898062d20e5df168198fa5f12e0ff2f00d0.js?body=1" for 127.0.0.1 at 2017-02-28 16:40:06 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-28 16:40:06 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-28 16:40:06 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-28 16:40:06 +0530
+
+
+Started GET "/assets/frontend/greet.self-d1421c93eb04f11d1e4de87de70701ada38ff72acd6cdd4202b05c208a252aa7.js?body=1" for 127.0.0.1 at 2017-02-28 16:40:06 +0530
+
+
+Started GET "/development/collection" for 127.0.0.1 at 2017-02-28 16:40:26 +0530
+
+ActionController::RoutingError (No route matches [GET] "/development/collection"):
+  actionpack (4.2.6) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.6) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.6) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.6) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.6) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.6) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.6) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.5) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.5) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.6) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.6) lib/action_dispatch/middleware/static.rb:120:in `call'
+  rack (1.6.5) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.6) lib/rails/engine.rb:518:in `call'
+  railties (4.2.6) lib/rails/application.rb:165:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  rack (1.6.5) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.5) lib/rack/handler/webrick.rb:88:in `service'
+  /home/ankit/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /home/ankit/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /home/ankit/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/routes/_table.html.erb (35.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.8ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (110.7ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.9ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (59.3ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (95.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-28 16:42:56 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 27ms (Views: 26.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/frontend/main.self-e74b57c8c09eaf9ea2f6bd04dc608898062d20e5df168198fa5f12e0ff2f00d0.js?body=1" for 127.0.0.1 at 2017-02-28 16:42:57 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-28 16:43:01 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 35ms (Views: 34.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-28 16:43:02 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 53ms (Views: 53.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-28 16:43:03 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 49ms (Views: 48.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-28 16:45:34 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 2577ms (Views: 2576.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/frontend/greet.self-1d8c8ff6677289d3222f9970bda41101878446764a28dac8b4b1f17b89d7cd8d.js?body=1" for 127.0.0.1 at 2017-02-28 16:45:36 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-28 16:55:03 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 30ms (Views: 29.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-28 17:15:26 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 586ms (Views: 585.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-28 17:17:38 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 2669ms (Views: 2669.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-28 17:18:07 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 54ms (Views: 54.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-28 17:18:55 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 44ms (Views: 43.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-28 17:18:56 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 38ms (Views: 37.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-28 18:12:28 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (10.2ms)
+Completed 200 OK in 701ms (Views: 701.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-28 18:12:30 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 33ms (Views: 33.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-28 18:13:11 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 42ms (Views: 40.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-28 18:44:04 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 45ms (Views: 44.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-28 18:44:06 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-28 18:44:06 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-28 18:44:06 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-28 18:44:06 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-28 18:44:06 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-28 18:44:06 +0530
+
+
+Started GET "/assets/frontend/greet.self-d1421c93eb04f11d1e4de87de70701ada38ff72acd6cdd4202b05c208a252aa7.js?body=1" for 127.0.0.1 at 2017-02-28 18:44:06 +0530
+
+
+Started GET "/assets/frontend/main.self-9132a504dd77ceb316edfafe518c5e42bc4b221a737cc7125b71b77df5c1bb24.js?body=1" for 127.0.0.1 at 2017-02-28 18:44:06 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-28 18:44:06 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-28 18:44:06 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-28 18:44:17 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 24ms (Views: 24.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2017-02-28 18:44:17 +0530
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2017-02-28 18:44:17 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2017-02-28 18:44:17 +0530
+
+
+Started GET "/assets/development/react.self-bf407d871f2396ec7dcba5eb91bd3f3955401699aef9b87f48b6e1694c24a078.js?body=1" for 127.0.0.1 at 2017-02-28 18:44:17 +0530
+
+
+Started GET "/assets/react_ujs.self-c42e5ee44bcda6910afca6fb40f99d9963074b3aefe72365ce90c24312e73b2b.js?body=1" for 127.0.0.1 at 2017-02-28 18:44:17 +0530
+
+
+Started GET "/assets/frontend/greet.self-d1421c93eb04f11d1e4de87de70701ada38ff72acd6cdd4202b05c208a252aa7.js?body=1" for 127.0.0.1 at 2017-02-28 18:44:17 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2017-02-28 18:44:17 +0530
+
+
+Started GET "/assets/frontend/main.self-9132a504dd77ceb316edfafe518c5e42bc4b221a737cc7125b71b77df5c1bb24.js?body=1" for 127.0.0.1 at 2017-02-28 18:44:17 +0530
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2017-02-28 18:44:17 +0530
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2017-02-28 18:44:17 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-03-01 13:29:49 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 1322ms (Views: 1321.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-03-01 13:29:51 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 31ms (Views: 31.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-03-01 13:29:59 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 58ms (Views: 56.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-03-01 13:30:00 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 50ms (Views: 50.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-03-01 13:30:02 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 67ms (Views: 66.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-03-01 15:10:16 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 4318ms (Views: 4317.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/frontend/main.self-9dc633df5d05430c9f381cc1954b45e5cf227e023ca2802e2b94e160cd92a00a.js?body=1" for 127.0.0.1 at 2017-03-01 15:10:21 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-03-01 15:15:12 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 29ms (Views: 28.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-03-01 15:15:14 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 59ms (Views: 58.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-03-01 15:15:15 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 54ms (Views: 53.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-03-01 15:15:18 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 52ms (Views: 51.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-03-01 15:16:03 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 500 Internal Server Error in 1106ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (SyntaxError: unknown: Unexpected token (4:5)
+  2 | class Main extends React.Component{
+  3 | 	render(){
+> 4 |     <%debugger%>
+    |      ^
+  5 | 		return(
+  6 |     <Greet/>
+  7 | 			);):
+    3: <head>
+    4:   <title>TwitterClone</title>
+    5:   <%= stylesheet_link_tag    'application', media: 'all' %>
+    6:   <%= javascript_include_tag 'application' %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+    9: <body>
+  app/views/layouts/application.html.erb:6:in `_app_views_layouts_application_html_erb___3154298591781507449_32054960'
+
+
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (23.6ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (7.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.8ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/actionpack-4.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (60.8ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.8ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (69.6ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /home/ankit/.rvm/gems/ruby-2.3.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (117.7ms)
+
+
+Started PUT "/__web_console/repl_sessions/2d70400b36e7618bf908bf7f13f3ae57" for 127.0.0.1 at 2017-03-01 15:16:20 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-03-01 15:17:16 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 1537ms (Views: 1536.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/frontend/main.self-7e1f0e6107a7ee3ad0ac8d159f4b1cca82c5bf4e47c11570288018d61ece3faf.js?body=1" for 127.0.0.1 at 2017-03-01 15:17:17 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-03-01 15:17:25 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 25ms (Views: 24.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-03-01 15:18:29 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 2843ms (Views: 2842.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bundle.self-ccf23fa0e5a19fd2a096fa6e46eb9d5ca2752bb37ec60b28003a8be4c2c180e8.js?body=1" for 127.0.0.1 at 2017-03-01 15:18:33 +0530
+
+
+Started GET "/assets/frontend/main.self-03176079f268bcc3d605aded89fa502cd962438dce23c8d6de05ed48d3230e06.js?body=1" for 127.0.0.1 at 2017-03-01 15:18:33 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-03-01 15:18:35 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 31ms (Views: 30.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-03-01 15:18:36 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 66ms (Views: 65.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-03-01 15:32:04 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 1695ms (Views: 1694.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/frontend/main.self-cd44bed4b2fff5d0f983b0a9ea4ffe207f288b92f85117f36944981543f33ceb.js?body=1" for 127.0.0.1 at 2017-03-01 15:32:06 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2017-03-01 15:32:21 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 35ms (Views: 34.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-03-01 15:32:40 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 39ms (Views: 38.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-03-01 15:32:41 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 41ms (Views: 41.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-03-01 15:38:53 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 34ms (Views: 34.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-03-01 15:38:55 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 41ms (Views: 40.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-03-01 15:38:56 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 39ms (Views: 39.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-03-01 15:38:57 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 31ms (Views: 30.8ms | ActiveRecord: 0.0ms)
